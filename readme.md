@@ -1,3 +1,3 @@
 # Proyecto final
 
-![alt text](output/bus.png)
+![alt text](output/bus.jpg)
